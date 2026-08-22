@@ -75,7 +75,7 @@ src/
 ## Integrantes 
 
 - Pablo jiatz charuc / pjiatzc1-hub
-- Nombre Apellido — usuario de GitHub
+- Julio Cesar Acuta Velasquez / jacutav-svg
 - Lester Josué Orellana Argueta / J2-K22
 
 
