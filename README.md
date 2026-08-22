@@ -75,7 +75,7 @@ src/
 ## Integrantes 
 -Pablo jiatz charuc / pjiatzc1-hub
 - Nombre Apellido — usuario de GitHub
-- Nombre Apellido — usuario de GitHub
+- Lester Josué Orellana Argueta / J2-K22
 
 
 ## Autoría
