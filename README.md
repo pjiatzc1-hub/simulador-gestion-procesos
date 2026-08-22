@@ -1,4 +1,4 @@
-# Simulador de Gestión de Procesos en Memoria
+Simulador de Gestión de Procesos en Memoria
 
 Simulador de un sistema operativo simplificado que administra la ejecución de procesos sobre una memoria RAM limitada (1 GB). El sistema gestiona una cola de espera para los procesos que no caben en memoria, ejecuta procesos de forma concurrente mediante hilos, y libera automáticamente la memoria cuando un proceso finaliza.
 
