@@ -72,6 +72,10 @@ src/
 
 ![Estado de la memoria](imagen/estado_memoria.png)
 
+## Integrantes 
+-Pablo jiatz charuc / pjiatzc1-hub
+- Nombre Apellido — usuario de GitHub
+- Nombre Apellido — usuario de GitHub
 
 
 ## Autoría
